@@ -19,7 +19,7 @@ namespace Git_Test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Det var skönt!");
+            MessageBox.Show("Det var skönt! :)");
         }
     }
 }
