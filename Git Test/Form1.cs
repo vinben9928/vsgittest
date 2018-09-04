@@ -21,5 +21,10 @@ namespace Git_Test
         {
             MessageBox.Show("Det var skönt! :)");
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("CheckBox: " + checkBox1.Checked.ToString());
+        }
     }
 }
