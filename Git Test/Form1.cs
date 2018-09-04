@@ -21,5 +21,10 @@ namespace Git_Test
         {
             MessageBox.Show("Det var skönt! :)");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hej");
+        }
     }
 }
